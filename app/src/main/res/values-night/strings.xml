@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="proximityBtnText" />
+    <string name="my_sensor_readings">My Sensor Readings</string>
+    <string name="proximity_sensor_reading">Proximity Sensor Reading</string>
+    <string name="pressure_sensor_reading">Pressure Sensor reading</string>
+    <string name="light_sensor_reading">Light Sensor Reading</string>
+    <string name="gps_value_reading">GPS Value Reading</string>
+    <string name="accelerometer_sensor_reading">Accelerometer Sensor Reading</string>
+</resources>
