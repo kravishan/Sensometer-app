@@ -50,7 +50,7 @@ If you would like to contribute to this project, please follow these steps:
 
 ## Screenshots
 
-<p align="center"><img width="30%" src="https://user-images.githubusercontent.com/6293254/217293701-d18df68d-c7c7-48cb-a6cd-7c0656e59e16.png"></p>
+<p align="center"><img width="30%" src="https://user-images.githubusercontent.com/125926016/224027392-49624306-0fd2-4c99-85ca-92a07d477ef4.png"></p>
 
 
 
