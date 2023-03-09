@@ -47,3 +47,11 @@ If you would like to contribute to this project, please follow these steps:
 - Make your changes and commit them to your branch
 - Push your branch to your forked repository
 - Create a pull request to merge your changes into this repository
+
+## Screenshots
+
+<p align="center"><img width="30%" src="https://user-images.githubusercontent.com/6293254/217293701-d18df68d-c7c7-48cb-a6cd-7c0656e59e16.png"></p>
+
+## Acknowledgements
+
+This app was created as part of a homework assignment for a mobile development course. The requirements and guidelines for the assignment were provided by the course instructor.
