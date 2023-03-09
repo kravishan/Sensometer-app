@@ -54,6 +54,8 @@ If you would like to contribute to this project, please follow these steps:
 
 <p align="center"><img width="30%" src="https://user-images.githubusercontent.com/125926016/224028078-9db43d01-4dce-4152-8d27-c7e7c54ffc3e.png"></p>
 
+![Picture2](https://user-images.githubusercontent.com/125926016/224028078-9db43d01-4dce-4152-8d27-c7e7c54ffc3e.png)
+
 ## Acknowledgements
 
 This app was created as part of a homework assignment for a mobile development course. The requirements and guidelines for the assignment were provided by the course instructor.
