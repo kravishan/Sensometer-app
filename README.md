@@ -52,7 +52,7 @@ If you would like to contribute to this project, please follow these steps:
 
 <p align="center"><img width="30%" src="https://user-images.githubusercontent.com/125926016/224027392-49624306-0fd2-4c99-85ca-92a07d477ef4.png"></p>
 
-
+<p align="center"><img width="30%" src="https://user-images.githubusercontent.com/125926016/224028078-9db43d01-4dce-4152-8d27-c7e7c54ffc3e.png"></p>
 
 ## Acknowledgements
 
